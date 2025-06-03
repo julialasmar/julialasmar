@@ -4,7 +4,7 @@
 
 🎨 Apaixonada por tecnologia
 
-🌱 Atualmente aprendendo mais sobre: linguagem C, Node.js e boas práticas de desenvolvimento
+🌱 Atualmente aprendendo mais sobre: linguagem C e C++, e boas práticas de desenvolvimento
 
 🤝 Buscando colaborar em projetos que envolvam desenvolvimento web, UI/UX e inovação digital  
 
