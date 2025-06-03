@@ -1,4 +1,4 @@
-✨ Oiê! Eu sou a @julialasmar
+#✨ Oiê! Eu sou a @julialasmar
 
 💻 Estudante de Engenharia de Software na PUC Minas
 
@@ -8,8 +8,6 @@
 
 🤝 Buscando colaborar em projetos que envolvam desenvolvimento web, UI/UX e inovação digital  
 
-📫 Como falar comigo: [meu LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
+📫 Como falar comigo: [meu LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
 
-🌸 Pronomes: ela/dela 💅✨  
----
-
+🌸 Pronomes: ela/dela 💅✨ 
