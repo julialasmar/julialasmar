@@ -1,4 +1,4 @@
-#✨ Oiê! Eu sou a @julialasmar
+# ✨ Oi, eu sou a @julialasmar ✨
 
 💻 Estudante de Engenharia de Software na PUC Minas
 
